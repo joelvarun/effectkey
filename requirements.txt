@@ -1,0 +1,8 @@
+# The library itself is pure standard library. Nothing below is needed to
+# import effectkey or to run the ledger in production.
+
+# Benchmark figure
+matplotlib>=3.7
+
+# Tests
+pytest>=7.4
